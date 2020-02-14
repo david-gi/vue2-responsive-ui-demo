@@ -5,10 +5,11 @@ var express = require('express');
 var app = express();
 const PORT = process.env.PORT || 8080;
 
-app.use(express.static(__dirname + '/'));
+// app.use(express.static(__dirname + '/'));
+app.use('/dist', express.static('dist'));
 
-app.get('/', function(req, res) {
-    res.sendFile('/public/index.html', {root: __dirname})
+app.get('/', (re, res) => {
+    res.sendFile('/dist/index.html', {root: __dirname})
 });
 
 app.listen(PORT);
