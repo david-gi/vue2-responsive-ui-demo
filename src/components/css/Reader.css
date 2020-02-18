@@ -13,6 +13,7 @@
   #pageNav {
     padding-top: 50px;
     width: 50px;
+    min-width: 50px;
     background-color: #333333;
     text-align: center;
   }
@@ -52,6 +53,9 @@
     padding-top: 50px;
     border-right: 1px #e1e1e1 solid;
     background-color: #f1f1f2;
+  }
+  #msgNav::-webkit-scrollbar {
+    display: none;
   }
   #msgNav .item {
     border-bottom: 1px #e1e1e1 solid;
