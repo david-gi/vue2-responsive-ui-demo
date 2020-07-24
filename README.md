@@ -1,4 +1,5 @@
-# logdna-project-01
+# Vue UI demo
+https://take-home-assignment.appspot.com/
 
 ## Project setup
 ```
