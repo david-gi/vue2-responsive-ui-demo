@@ -1,4 +1,5 @@
 # Vue UI demo
+Just a basic demonstration of responsive design with Vue.js (from an interview).
 https://take-home-assignment.appspot.com/
 
 ## Project setup
