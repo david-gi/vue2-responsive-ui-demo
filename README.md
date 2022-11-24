@@ -2,6 +2,7 @@
 ## A responsive design demo with Vue 2
 
 ### [See live demo](https://take-home-assignment.appspot.com/)
+![preview img](https://github.com/david-gi/vue2-responsive-ui-demo/blob/master/preview.png)
 
 ## Project setup
 ```
