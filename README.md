@@ -1,7 +1,7 @@
 # Vue UI demo
 ## A responsive design demo with Vue 2
 
-### [See live demo(]https://take-home-assignment.appspot.com/)
+### [See live demo](https://take-home-assignment.appspot.com/)
 
 ## Project setup
 ```
